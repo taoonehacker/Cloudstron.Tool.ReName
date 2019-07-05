@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <service>FilePrintSvr</service>
+  <extension>.config,.json,.xml</extension>
+  <rules>
+    <rule name="IPAddress">((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}</rule>
+    <rule name="Localhost">localhost</rule>
+  </rules>
+</configuration>

@@ -1,0 +1,12 @@
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\bin\Debug\Cloudstron.Tool.ReName.exe.config
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\bin\Debug\Cloudstron.Tool.ReName.exe
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\bin\Debug\Cloudstron.Tool.ReName.pdb
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.csprojAssemblyReference.cache
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.Properties.Resources.resources
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.csproj.GenerateResource.cache
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.csproj.CoreCompileInputs.cache
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.exe
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.pdb
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.AddRuleForm.resources
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.MainForm.resources
+E:\Development\Workspaces\YwscWorkspace\Rename\Cloudstron.Tool.ReName\Cloudstron.Tool.ReName\obj\Debug\Cloudstron.Tool.ReName.AddRootForm.resources
